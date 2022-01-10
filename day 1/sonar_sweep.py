@@ -1,4 +1,3 @@
-
 # --- GET DATA ---
 
 input_path: str = 'day 1\input.txt'
