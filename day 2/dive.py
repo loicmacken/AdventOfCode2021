@@ -63,7 +63,7 @@ class Dive:
 
 if __name__ == '__main__':
     # --- GET DATA ---
-    input_path: str = 'day 2\input.txt'
+    input_path: str = 'day 2\\input.txt'
 
     # --- PART ONE --- 
     dive = Dive(input_path)

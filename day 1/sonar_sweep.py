@@ -1,6 +1,6 @@
 # --- GET DATA ---
 
-input_path: str = 'day 1\input.txt'
+input_path: str = 'day 1\\input.txt'
 data: list[int] = []
 
 with open(input_path, 'r') as infile:
